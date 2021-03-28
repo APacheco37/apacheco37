@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+
+[My site](apacheco37.github.io) (_pretty much empty for now_)
+
+Favorite tech stack: 
+- Angular
+- NodeJS/NestJS
+- PostgreSQL
 
 <!--
 **APacheco37/apacheco37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
