@@ -3,9 +3,10 @@
 [My site](https://apacheco37.github.io) (_pretty much empty for now_)
 
 Favorite tech stack: 
-- Angular
-- NodeJS/NestJS
-- PostgreSQL
+- Frontend: Angular
+- Backend: NodeJS/NestJS
+- DB: PostgreSQL
+- Cloud: Wherever I currently have free credit 😏
 
 <!--
 **APacheco37/apacheco37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
