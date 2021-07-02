@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+:computer: Software Developer/Computer Engineering student from Montevideo, :uruguay:
+
 [My site](https://apacheco37.github.io) (_pretty much empty for now_)
 
 Favorite tech stack: 
