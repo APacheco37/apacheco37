@@ -10,6 +10,8 @@ Favorite tech stack:
 - DB: PostgreSQL
 - Cloud: Wherever I currently have free credit 😏
 
+However, I'm always looking into exploring and leveraging other technologies as well.
+
 <!--
 **APacheco37/apacheco37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
