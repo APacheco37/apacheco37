@@ -5,7 +5,7 @@
 [My site](https://apacheco37.github.io) (_pretty much empty for now_)
 
 Favorite tech stack: 
-- Frontend: Angular
+- Frontend: Angular/React
 - Backend: NodeJS/NestJS
 - DB: PostgreSQL
 - Cloud: Wherever I currently have free credit 😏
