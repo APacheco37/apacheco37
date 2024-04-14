@@ -1,14 +1,14 @@
 ### Hello there 👋
 
-:computer: Software Developer/Computer Engineering student from Montevideo, :uruguay:
+:computer: Software Developer from Montevideo, :uruguay:
 
 [My site](https://apacheco37.github.io) (_pretty much empty for now_)
 
 Favorite tech stack: 
-- Frontend: Angular/React
-- Backend: NodeJS/NestJS
-- DB: PostgreSQL
-- Cloud: Wherever I currently have free credit 😏
+- **Frontend**: Angular/React
+- **Backend**: NodeJS/NestJS
+- **DB**: PostgreSQL
+- **Cloud**: AWS (_or wherever I currently have free credit_ 😏)
 
 However, I'm always looking into exploring and leveraging other technologies as well.
 
